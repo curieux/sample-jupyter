@@ -1,0 +1,11 @@
+# These are the actual base requirements.   They can be used to generate
+# requirements-platform.txt
+cython
+docopt
+numpy
+numpydoc
+pandas
+pytest
+scikit-learn
+scipy
+sphinx
