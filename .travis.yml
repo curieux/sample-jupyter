@@ -29,7 +29,7 @@ install:
 
 script:
     - source activate test_env
-    - python -v - 'import numpy'
+    - python -v -c 'import numpy'
 
 #install:
 ##  - sudo apt-get update
